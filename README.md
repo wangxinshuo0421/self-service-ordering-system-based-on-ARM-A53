@@ -14,3 +14,5 @@
 #### 账单上传服务器功能使用TCP通信协议，将账单上传至局域网的服务器地址中。
 
 #### ps：Ubuntu16.04 编译命令：arm-linux-gcc order.c -o order -lpthread -I ./
+#### 项目演示视频地址：
+
